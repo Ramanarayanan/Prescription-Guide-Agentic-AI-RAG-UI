@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+crewai[azure-ai-inference]>=0.80.0
+langchain-openai
+openai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+pydantic
+langchain
